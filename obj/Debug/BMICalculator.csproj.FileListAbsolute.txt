@@ -1,0 +1,10 @@
+C:\Users\ekane\source\repos\BMICalculator\bin\Debug\BMICalculator.exe.config
+C:\Users\ekane\source\repos\BMICalculator\bin\Debug\BMICalculator.exe
+C:\Users\ekane\source\repos\BMICalculator\bin\Debug\BMICalculator.pdb
+C:\Users\ekane\source\repos\BMICalculator\obj\Debug\BMICalculator.csprojAssemblyReference.cache
+C:\Users\ekane\source\repos\BMICalculator\obj\Debug\BMICalculator.Properties.Resources.resources
+C:\Users\ekane\source\repos\BMICalculator\obj\Debug\BMICalculator.csproj.GenerateResource.cache
+C:\Users\ekane\source\repos\BMICalculator\obj\Debug\BMICalculator.csproj.CoreCompileInputs.cache
+C:\Users\ekane\source\repos\BMICalculator\obj\Debug\BMICalculator.exe
+C:\Users\ekane\source\repos\BMICalculator\obj\Debug\BMICalculator.pdb
+C:\Users\ekane\source\repos\BMICalculator\obj\Debug\BMICalculator.activityGB.resources
